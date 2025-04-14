@@ -23,11 +23,13 @@ function getMultiplesOfThree(arr) {
 }
 
 // Results 
+
 console.log(`Result for inputs 8, "John" and [2, 4, 6, 8, 9]:\n${func(8, "John", NumArray)}\n`);
 console.log(`Result for inputs 7, "John" and [2, 4, 6, 8, 9]:\n${func(7, "John", NumArray)}\n`);
 console.log(`Result for inputs 7, "NotJohn" and [2, 4, 6, 8, 9]:\n${func(7, "NotJohn", NumArray)}\n`);
 console.log(`Result for inputs 8, "NotJohn" and [2, 4, 6, 8, 9]:\n${func(8, "NotJohn", NumArray)}\n`);
-// Qestions
+
+// Questions
 
 // Given bracket sequence: [((())()(())]] 
 // Can this sequence be considered correct? 
